@@ -18,6 +18,7 @@ gem 'react-rails'
 gem 'tweetstream'
 
 group :development, :test do
+  gem 'dotenv-rails'
   gem 'pry'
   gem 'better_errors'
   gem 'spring'
