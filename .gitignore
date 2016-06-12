@@ -18,3 +18,5 @@
 /log/*
 !/log/.keep
 /tmp
+tweet_streamer.output
+tweet_streamer.pid
